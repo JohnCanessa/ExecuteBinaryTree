@@ -10,7 +10,7 @@ If interested in the description of the problem and my
 comments I invite you to read the following post in my
 blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/10/08/execute-binary-tree/
 
 Keep in mind that on eof the best ways to learn is to
 read and experiment.
